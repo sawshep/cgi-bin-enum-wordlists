@@ -1,0 +1,16 @@
+
+.cgi
+.pl
+.sh
+.py
+.rb
+.php
+.ps1
+.c
+.cpp
+.exe
+.out
+.tcl
+.lua
+.awk
+.bat
